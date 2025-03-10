@@ -4,12 +4,12 @@
 
 This project is an interactive sales dashboard built using Microsoft Excel to analyze and visualize bike sales data.  The dashboard provides key insights into sales performance, trends, and customer behavior, enabling data-driven decision-making.  
 
-[**Insert a Screenshot of your Dashboard Here!  This is really important!**]  
+## Dashboard Preview
 
-*Example:  ![Dashboard Screenshot](images/dashboard_screenshot.png)*  
+https://github.com/AnthonyAlade/Excel-Projects/blob/main/bike%20sales%20dashboard%20preview.png
 
 ## Features  
-
+- Data Filtering:**  Ability to filter data by region, product category, sales representative, and time period. 
 *   **Interactive Charts and Graphs:** Visual representations of key sales metrics, including revenue, units sold, and profit margins.  
 *   **Data Filtering:**  Ability to filter data by region, product category, sales representative, and time period.  
 *   **Key Performance Indicators (KPIs):**  Clear display of important KPIs such as total sales, average order value, and customer acquisition cost.  
