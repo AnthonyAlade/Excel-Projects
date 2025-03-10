@@ -1,39 +1,41 @@
-# Bike Sales Dashboard - Excel Project  
+ Excel Project  
 
 ## Overview  
 
 This project is an interactive sales dashboard built using Microsoft Excel to analyze and visualize bike sales data.  The dashboard provides key insights into sales performance, trends, and customer behavior, enabling data-driven decision-making.  
 
-## Dashboard Preview
+## Project 1: Bikes sales
+### Description  
 
+This project involves the cleaning and visualization of a bike sales dataset to derive meaningful insights regarding the sales performance. The dataset was cleaned and standardized for consistency. Pivot tables and charts were used to explore trends and visualize insights.
+ 
+ ## Dashboard Preview
 https://github.com/AnthonyAlade/Excel-Projects/blob/main/bike%20sales%20dashboard%20preview.png
 
-## Features  
-- Data Filtering:**  Ability to filter data by region, product category, sales representative, and time period. 
-*   **Interactive Charts and Graphs:** Visual representations of key sales metrics, including revenue, units sold, and profit margins.  
-*   **Data Filtering:**  Ability to filter data by region, product category, sales representative, and time period.  
-*   **Key Performance Indicators (KPIs):**  Clear display of important KPIs such as total sales, average order value, and customer acquisition cost.  
-*   **Sales Trend Analysis:**  Identification of sales patterns and trends over time.  
-*   **Customer Segmentation:**  Analysis of customer demographics and purchasing behavior. (If applicable)  
-*   **Dynamic Updates:**  The dashboard is designed to be easily updated with new sales data.  
+## Key Features  
+### Data cleaning & Transformation  
+- Removing duplicate data
+- Grouping the age into age brackets for simplicity
+- Standardized the gender column by replacing abbreviation (M AND F) with full Labels (Male and Female) for better readability and consistency
 
-## Data Sources  
+### Data analysis and visualization
+- Created pivot tables to analyze the dataset allowing for better analysis of trends and patterns in the data
+- Used pivot charts(bar charts ,line charts etc)  to represent key findings visually
 
-*   [**Specify your data source(s) here.  Be specific!**]  
-    *   *Example:*  Sales data was extracted from our company's CRM system (Salesforce) as a CSV file.  
-    *   *Example:*  Data is manually entered from monthly sales reports.  
-*   [**If you're *simulating* data, explain how.**]  
-    *   *Example:*  The data used in this dashboard is simulated for demonstration purposes.  It was generated using Python and the `faker` library to create realistic but fictitious sales records.  The script used to generate this data is included in the `data` directory.  
+## Key Excel Features Used
+- Pivot Tables  
+- Charts (e.g., Bar, Line)  
+- Slicers  
+- Formulas (e.g., if, Substitute)  
 
-## Technical Details  
+## Tool used
+- Microsoft Excel
+      
+     
 
-*   **Software:** Microsoft Excel (version [Specify Version Used])  
-*   **Key Excel Features Used:**  
-    *   Pivot Tables  
-    *   Charts (e.g., Column, Line, Pie)  
-    *   Slicers  
-    *   Formulas (e.g., SUMIFS, AVERAGEIFS, VLOOKUP)  
-    *   Conditional Formatting  
-    *   [**Add any other Excel features you heavily relied on**]  
+  
 
-## Project Structure  
+
+
+ 
+
