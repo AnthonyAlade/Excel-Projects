@@ -1,8 +1,11 @@
- Excel Project  
+# Excel Project 
 
-## Overview  
+Welcome to my Excel portfolio, in this repository, you will find two Excel Project  that highlight my skills in exploratory data analysis, visualization and data cleaning.    
 
-This project is an interactive sales dashboard built using Microsoft Excel to analyze and visualize bike sales data.  The dashboard provides key insights into sales performance, trends, and customer behavior, enabling data-driven decision-making.  
+## Project Overview  
+This repository contains two key Excel Projects :  
+
+1. This project is an interactive sales dashboard built using Microsoft Excel to analyze and visualize bike sales data.  The dashboard provides key insights into sales performance, trends, and customer behavior, enabling data-driven decision-making.  
 
 ## Project 1: Bikes sales
 ### Description  
