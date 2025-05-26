@@ -6,7 +6,7 @@ Welcome to my Excel portfolio, in this repository, you will find Excel Project  
 This repository contains  key Excel Projects :  
 
 1. This project is an interactive sales dashboard built using Microsoft Excel to analyze and visualize bike sales data.  The dashboard provides key insights into sales performance, trends, and customer behavior, enabling data-driven decision-making
-2.  This project involves the analysis of a school survey dataset containing information about students' performance in math, reading, and writing. The dataset also includes various demographic and academic-related factors such as gender, parental education level, lunch typem, and test preparation   
+2.  This project involves the analysis of a school survey dataset containing information about students' performance in math, reading, and writing. The dataset also includes various demographic and academic-related factors such as gender, parental education level, lunch type, and test preparation   
 
 ## Project 1: Bikes sales
 ### Description  
@@ -44,9 +44,6 @@ This project focuses on cleaning and visualizing a school survey dataset to unco
 
 The goal of this project is to explore the relationship between student demographics and their academic performance using Microsoft Excel. Key insights were drawn using pivot tables and charts.
 
-## Dashboard Preview
-https://github.com/AnthonyAlade/Excel-Projects/blob/main/bike%20sales%20dashboard%20preview.png
-
 ## Key Features  
 ### Data cleaning & Transformation  
 - Removing duplicate data
@@ -58,13 +55,15 @@ https://github.com/AnthonyAlade/Excel-Projects/blob/main/bike%20sales%20dashboar
 
 ### Insights and Findings
 - The female students did better in reading and writing tests while the male students did better in the math test
+- Lunch type (standard vs. free/reduced) had a noticeable effect on performance
+- participation in sports also had an impact on the performance of the student
 
 
 ## Key Excel Features Used
 - Pivot Tables  
 - Charts (e.g Bar, Line)  
 - Slicers  
-- Formulas (e.g., if, Substitute)  
+- Formulas   
 
 ## Tool used
 - Microsoft Excel
